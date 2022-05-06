@@ -89,4 +89,21 @@ switch (cor){
 ## Laços de Repetição
 <p>Percorre um array, ou objeto javascript que tem mais de uma informação para trabalhar de forma repetida e controlada. <p>
 
+### FOR
 
+for([expressãoinicial]; [condição]; [incremento]{
+    execução
+}
+
+while ([condição]){
+    [execução]
+}
+
+do {
+    [execução]
+} while ([condição])
+
+## Funções
+
+<p>-Evitar a repetição de código</p>
+<p>-Realizar chamadas dinâmicas de algoritmos</p>
