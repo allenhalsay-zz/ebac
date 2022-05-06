@@ -86,4 +86,7 @@ switch (cor){
         console.log('Não temos nenhuma cor');
 }
 
+## Laços de Repetição
+<p>Percorre um array, ou objeto javascript que tem mais de uma informação para trabalhar de forma repetida e controlada. <p>
+
 
