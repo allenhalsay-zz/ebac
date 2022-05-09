@@ -2,32 +2,37 @@
 
 ## Aritméticos: Retornam o resultado de uma operação
 
+<pre>
 + Somar
 - Subtrair
 * Multiplicar
 / Dividir
 % Módulo
-
+</pre>
 ## Comparadores matemáticos: Teste lógico, retorno booleano (true / false)
 
+<pre>
 < menor que
 > Maior que
 <= menor ou igual
 >= maior ou igual
+</pre>
 
 ## Comparadores lógicos: Teste lógico, retorno booleano (true / false)
 
+<pre>
 == igualdade entre sentenças (valor)
 != diferença entre sentenças (valor)
 === igualdade entre sentenças (valor e tipo)
 !== diferença entre sentenças (valor e tipo)
-
+</pre>
 ## Operadores de Lógica e Junção Lógica
 
+<pre>
 !    NÃO (NOT)
 &&   E (END)
 ||   OU (OR)
-
+</pre>
 #### Exemplos
 
 a != b       //O valor de a é diferente de b?
@@ -41,9 +46,9 @@ false é equivalente a 0
 
 #### Operador lógico de atribuição
 
-Tem a capacidade de atribuir valor a uma variável a partir de uma condição lógica.
-Economiza IFs
-Se for definir apenas o valor de uma variável, não precisa usar IF's.
+<p>Tem a capacidade de atribuir valor a uma variável a partir de uma condição lógica.</p>
+<p>Economiza IFs</p>
+<p>Se for definir apenas o valor de uma variável, não precisa usar IF's.</p>
 
 ##### Exemplos de interpretação do lógico por atribuição
 
